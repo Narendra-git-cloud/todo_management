@@ -1,0 +1,6 @@
+# Example environment variables for Todo Management API
+PORT=4000
+
+# To use a different port set PORT in your environment before running
+# Example (Linux/macOS):
+# PORT=5000 npm start
